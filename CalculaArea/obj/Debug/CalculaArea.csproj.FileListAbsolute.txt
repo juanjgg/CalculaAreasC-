@@ -6,3 +6,11 @@ C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaArea\Calc
 C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaArea\CalculaArea\obj\Debug\CalculaArea.csproj.CoreCompileInputs.cache
 C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaArea\CalculaArea\obj\Debug\CalculaArea.exe
 C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaArea\CalculaArea\obj\Debug\CalculaArea.pdb
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\bin\Debug\CalculaArea.exe.config
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\bin\Debug\CalculaArea.exe
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\bin\Debug\CalculaArea.pdb
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\obj\Debug\CalculaArea.csproj.AssemblyReference.cache
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\obj\Debug\CalculaArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\obj\Debug\CalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\obj\Debug\CalculaArea.exe
+C:\Users\jjgg\Documents\Personal\Nueva carpeta\Codifico- prueba\CalculaAreasC-\CalculaArea\obj\Debug\CalculaArea.pdb
